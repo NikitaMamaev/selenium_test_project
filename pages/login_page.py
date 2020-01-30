@@ -1,4 +1,4 @@
-from .locators import LoginPageLocators
+from pages.locators import LoginPageLocators
 from selenium.webdriver.common.by import By
 
 
